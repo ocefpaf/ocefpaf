@@ -2,7 +2,8 @@
 
 I'm a physical oceanographer turned research software engineer,
 and software packaging hobbyist.
-I'm very passionate about open source software and how I can make Met/Ocean science better through coding. 
+
+I'm very passionate about open source software. Trying to make Met/Ocean science better with coding. 
 
 
 ### GitHub stats
