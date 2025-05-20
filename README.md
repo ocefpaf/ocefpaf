@@ -1,9 +1,6 @@
-### Hello! I am Filipe Fernandes, also known as ocefpaf.
-
-I'm a physical oceanographer turned research software engineer,
-and software packaging hobbyist.
-
-I'm very passionate about open source software. Trying to make Met/Ocean science better with code. 
+Hello! I am Filipe Fernandes, also known as ocefpaf.
+I'm a physical oceanographer turned research software engineer, and software packaging hobbyist.
+I'm very passionate about open source software. Trying to make Met/Ocean science better with code.
 
 
 ### GitHub stats
